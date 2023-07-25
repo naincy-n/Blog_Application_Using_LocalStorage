@@ -55,4 +55,4 @@ MODAL
 
 5.	A New Blog will appear on your Home Page.
 
-                                                                                                                 ~NAINCY NAIYAR
+                                                                                  ~NAINCY NAIYAR
